@@ -1,0 +1,6 @@
+{
+  "name": "sori - Bot Discord de Automação e Moderação",
+  "description": "Website oficial do bot sori para Discord. 100% grátis com automação exclusiva, tickets avançados, moderação, entretenimento e loja virtual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
